@@ -4,7 +4,7 @@ import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 import { MdEmail } from "react-icons/md";
 
 const baseSiteConfig = {
-  name: "Red Note Chinese Name Generator | Create Unique Chinese Names for RedNote",
+  name: "RedNote Chinese Name Generator | Create Unique Chinese Names for RedNote",
   description:
     "The best tool to create RedNote Chinese names: RedNote Name Generator. Get a unique and stylish Chinese name easily, even if you don't know any Chinese. Enhance your RedNote experience with this free tool. It is Ready to use.",
   url: "https://rednotemame.top",

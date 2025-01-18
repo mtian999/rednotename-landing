@@ -3,7 +3,7 @@ export const TestimonialsData = [
     user: {
       name: "Alex Johnson",
       username: "top4ai",
-      image: "/images/users/top4ai.jpeg",
+      image: "/images/users/1.png",
     },
     content:
       "I was looking for a chinese name for RedNote and this tool is amazing! It's super easy to use, and the names it generates are fantastic.  I highly recommend it to anyone wanting a chinese name!",
