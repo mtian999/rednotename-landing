@@ -1,0 +1,58 @@
+{
+  "Header": {
+    "title": "Snail Timer"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Snail Timer: Aumenta tu concentración con esta extensión de Google Chrome ligera y automatizada",
+      "description": "La herramienta de eficiencia más popular en 2025: Snail Timer 2025, gestión del tiempo 2025, extensión de Chrome 2025, herramienta de productividad 2025. Snail Timer 2025 es una extensión gratuita de Chrome que te ayuda a mejorar la eficiencia laboral y desarrollar buenos hábitos en línea. Es muy cómoda y está lista para usar.",
+      "keywords": "Extensión Snail Timer, Snail Timer 2025, herramienta de mejora de la concentración, extensión de Chrome en línea, herramienta de gestión del tiempo, Snail Timer gratis, herramienta de eficiencia, Ready to use, Lightweight, Automated"
+    }
+  },
+  "Hero": {
+    "title1": "ManTunTun: Asistente para mejorar la concentración",
+    "title2": "Snail Timer",
+    "title3": "No dejes que este lindo caracol te alcance",
+    "description": "Cuando visitas sitios web no relacionados con el trabajo, un lindo caracol comenzará a perseguirte, cubriendo gradualmente toda la página a medida que pasa el tiempo hasta que vuelvas al trabajo. Admite listas personalizadas de sitios web de trabajo y configuraciones de cuenta regresiva."
+  },
+  "SocialProof": {
+    "maker": ""
+  },
+  "Feature": {
+    "title": "Características"
+  },
+  "Pricing": {
+    "title": "Precios",
+    "title2": "",
+    "description": "Completamente gratis para usar, descarga y experimenta ahora",
+    "doYouLike": "",
+    "follow": ""
+  },
+  "Testimonials": {
+    "title": "Reseñas de usuarios",
+    "description1": "Si usas ManTunTun - Snail Timer y lo recomiendas en Twitter,",
+    "description2": "por favor házmelo saber",
+    "description3": "Mostraré tus tweets y recomendaciones aquí."
+  },
+  "FAQ": {
+    "title": "Preguntas frecuentes",
+    "description": "Estas son las preguntas más frecuentes de los usuarios"
+  },
+  "CTA": {
+    "title": "Obtén la extensión Snail Timer gratis",
+    "description1": "Instala",
+    "description2": "la extensión",
+    "description3": "",
+    "description4": "¡ahora!",
+    "description5": "",
+    "description6": ""
+  },
+  "CTAButton": {
+    "title": "Instalar extensión",
+    "title_2": "Comenzar a usar"
+  },
+  "NotFound": {
+    "title": "404 No encontrado",
+    "goHome": "Ir a la página principal"
+  }
+}

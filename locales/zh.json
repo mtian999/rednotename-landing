@@ -1,0 +1,64 @@
+{
+  "Header": {
+    "title": "RedNote 中文网名生成器"
+  },
+  "Metadata": {
+    "home": {
+      "title": "RedNote 中文网名生成器 | 为 RedNote 创建独特的中文名字",
+      "description": "2025年最热工具：RedNote 中文网名生成器。即使你不懂中文，也能轻松获得一个独特又时尚的中文名字。使用这个免费工具，增强你的RedNote体验。它非常方便。",
+      "keywords": [
+        "RedNote 中文网名生成器",
+        "中文名字工具",
+        "独特名字",
+        "方便",
+        "RedNote社区名字"
+      ]
+    }
+  },
+  "Hero": {
+    "title1": "用 RedNote 中文网名生成器解锁你的专属名字",
+    "title2": "在 RedNote 上脱颖而出",
+    "title3": "拥抱中国文化",
+    "description": "快速生成独特时尚的 RedNote 中文名字。我们的工具帮助你创建一个符合中国文化和个人特点的名字。它是自动化的，支持个性化设置和随机生成。"
+  },
+  "SocialProof": {
+    "maker": ""
+  },
+  "Feature": {
+    "title": "功能"
+  },
+  "Pricing": {
+    "title": "定价",
+    "title2": "",
+    "description": "完全免费使用，立即下载体验吧",
+    "doYouLike": "",
+    "follow": ""
+  },
+  "Testimonials": {
+    "title": "用户评价",
+    "description1": "如果您使用 RedNote 中文网名生成器并在推特上推荐它，",
+    "description2": "请告知我们",
+    "description3": "我们将会在这里展示您的推文和评价。"
+  },
+  "FAQ": {
+    "title": "常见问题",
+    "description": "以下是用户最常问的问题"
+  },
+  "CTA": {
+    "title": "免费获取你的 RedNote 中文名字",
+    "description1": "开始",
+    "description2": "生成",
+    "description3": " 现在",
+    "description4": "!",
+    "description5": "",
+    "description6": ""
+  },
+  "CTAButton": {
+    "title": "开始生成",
+    "title_2": "开始使用"
+  },
+  "NotFound": {
+    "title": "404 未找到",
+    "goHome": "返回首页"
+  }
+}
