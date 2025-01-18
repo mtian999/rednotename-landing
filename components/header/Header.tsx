@@ -36,9 +36,9 @@ const Header = ({
             <Image
               alt={locale.title}
               src="/logo.png"
-              className="w-16 h-8"
+              className="w-16 h-16"
               width={64}
-              height={32}
+              height={64}
             />
             <span className="text-gray-950 dark:text-gray-300 hidden md:block">
               {locale.title}
