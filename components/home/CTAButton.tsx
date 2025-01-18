@@ -7,7 +7,7 @@ import toast, { Toaster } from "react-hot-toast";
 
 const CTAButton = ({ locale, langName }: { locale: any; langName: string }) => {
   const clickHandler = () => {
-    toast.success("Coming soon to Google Chrome Web Store!");
+    toast.success("Coming soon...");
   };
   return (
     <div className="flex flex-col items-center gap-2 mt-4 sm:mt-8">

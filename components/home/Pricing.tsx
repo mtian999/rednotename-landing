@@ -85,9 +85,7 @@ const Pricing = ({
                 // href="https://fate.mastermao.com"
                 variant={tier.buttonVariant}
                 // rel="noopener noreferrer nofollow"
-                onPress={() =>
-                  toast.success("Coming soon to Google Chrome Web Store!")
-                }
+                onPress={() => toast.success("Coming soon...")}
               >
                 {tier.buttonText}
               </Button>
