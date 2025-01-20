@@ -1,5 +1,14 @@
 export const FAQS_EN = [
   {
+    title: "What is the Chinese name for rednote?",
+    content: 'The Chinese name for rednote is "小红书"',
+  },
+  {
+    title: "What is the pinyin for the Chinese name of rednote?",
+    content:
+      'The pinyin for the Chinese name of rednote (小红书) is "xiao hong shu"',
+  },
+  {
     title: "What is the RedNote Chinese Name Generator?",
     content:
       "The RedNote Chinese Name Generator is a tool designed for non-native Chinese speakers who want to create stylish and culturally relevant Chinese names for use on RedNote. It is Ready to use and Convenient.",
