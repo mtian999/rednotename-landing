@@ -28,6 +28,8 @@ const Pricing = ({
   langName: string;
 }) => {
   const TIERS = ALL_TIERS[`TIERS_${langName.toUpperCase()}`];
+  const jumpTo = process.env.JUMP_SITE_URL || "/";
+
   return (
     <section
       id={id}
@@ -80,12 +82,12 @@ const Pricing = ({
             <CardFooter>
               <Button
                 fullWidth
-                // as={Link}
+                as={Link}
                 color={tier.buttonColor}
-                // href="https://fate.mastermao.com"
+                href={jumpTo}
                 variant={tier.buttonVariant}
                 // rel="noopener noreferrer nofollow"
-                onPress={() => toast.success("Coming soon...")}
+                // onPress={() => toast.success("Coming soon...")}
               >
                 {tier.buttonText}
               </Button>

@@ -23,4 +23,6 @@ Submissions of interesting tools are welcome
 <img src="./public/zhouyi_20241108115435" alt="周易占卜实例" >
 [My Blog](https://fate.mastermao.com/zh/blog)
 
+[Rednote Chinese Name Generator](https://rednode-name.mastermao.com)
+
 [Twitter/X](https://twitter.com/maomaoyu_coffee/)
