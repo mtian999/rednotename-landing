@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button";
 import { RocketIcon } from "lucide-react";
-import Link from "next/link";
+import { Link } from "@nextui-org/react";
 
 import toast, { Toaster } from "react-hot-toast";
 
